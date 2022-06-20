@@ -7,12 +7,14 @@
     <title>Document</title>
 </head>
 <body>
+<div class="container-sm">
 <nav class="navbar bg-light">
   <div class="container">
     <a class="navbar-brand" href="#">
-      <img src="{{asset('img/logo.png')}}" alt="" width="30" height="24">
+      <img src="{{asset('img/logo.png')}}" alt="" width="731" height="120" class="container">
     </a>
   </div>
 </nav>
+</div>
 </body>
 </html>
